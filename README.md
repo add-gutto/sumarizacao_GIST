@@ -37,8 +37,8 @@ python manage.py runserver
 
 ## Observações
 
-- **O projeto foi testado em ambientes Linux.**
+- O projeto foi testado em ambientes **Linux.**
 
-- **É recomendável utilizar a versão do NumPy abaixo da 2.0 para evitar incompatibilidades com módulos compilados; porém, essa dependência já está especificada no arquivo `requirements.txt` para instalação automática.**
+- É recomendável utilizar a versão do **NumPy abaixo da 2.0** para evitar incompatibilidades com módulos compilados; porém, essa dependência já está especificada no arquivo `requirements.txt` para instalação automática.
 
-- **Para mais detalhes sobre o algoritmo Gist, consulte a tese mencionada acima.**
+- Para mais detalhes sobre o algoritmo Gist, consulte a tese mencionada acima.
